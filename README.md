@@ -2,6 +2,9 @@
 
 <img align='right' src="https://github.com/surajdm123/surajdm123/blob/main/coder1.gif" width="230">
 
+[![Linkedin Badge](https://img.shields.io/badge/-surajdm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajdm/)](https://www.linkedin.com/in/surajdm/)
+[![Github Badge](https://img.shields.io/badge/-@surajdm123-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/surajdm123)](https://github.com/surajdm123) 
+
 I'm currently pursuing my master's in Computer Science from NC State University at Raleigh, NC. 
 
 I am an inquisitive software developer with 3+ years of experience and have a keen interest in software development, theoretical computer science, algorithms and problem solving.
