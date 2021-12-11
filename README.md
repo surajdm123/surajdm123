@@ -7,7 +7,7 @@ I'm currently pursuing my master's in Computer Science from NC State University 
 I am an inquisitive software developer with 3+ years of experience and have a keen interest in software development, theoretical computer science, algorithms and problem solving.
 I am also an out of the box thinker who loves breaking down big problems into smaller actionable items and brainstorming innovative solutions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajdm123&langs_count=8)](https://github.com/surajdm123)
 
 
 ![Github Stats By Suraj](https://github-readme-stats.vercel.app/api?username=surajdm123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
